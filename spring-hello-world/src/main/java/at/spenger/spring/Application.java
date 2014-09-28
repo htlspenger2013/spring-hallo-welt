@@ -14,6 +14,7 @@ import at.spenger.spring.service.MessageProvider;
 import at.spenger.spring.service.MessageRenderer;
 import at.spenger.spring.service.StandardOutMessageRenderer;
 
+
 @Configuration
 @ComponentScan
 @EnableAutoConfiguration
